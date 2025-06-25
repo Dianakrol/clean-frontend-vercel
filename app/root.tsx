@@ -12,7 +12,7 @@ import { Toaster } from "react-hot-toast";
 import "./tailwind.css";
 import { checkAuth } from "~/services/authService";
 import Navbar from "./components/navbar/Navbar";
-import Footer from "./components/footer/footer";
+import Footer from "app/components/footer/Footer";
 import WompiButton from "./components/wompi";
 
 
